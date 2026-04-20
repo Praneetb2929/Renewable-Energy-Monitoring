@@ -23,4 +23,4 @@ This project is a SQL-based system designed to monitor renewable energy generati
 ## 👤 Author
 Name: Praneet Biswal  
 Roll No: 2306351  
-Batch/Program: B.Tech (Your Branch)
+Batch/Program: B.Tech (IT)
